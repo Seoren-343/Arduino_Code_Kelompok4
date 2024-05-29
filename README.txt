@@ -3,9 +3,9 @@ Motion Live-Image Capture using OV7670 Camera Module and SG90 Micro Servo Motor 
 
 This project is created by:
 Darryl Pratama Iswahyudhi (00000078651)
-Aditya Putra Sabrina ()
-Jonathan Ryan Rizkianto ()
-Duncan Carellius ()
+Aditya Putra Sabrina (00000073584)
+Jonathan Ryan Rizkianto (00000070522)
+Duncan Carellius (00000075260)
 
 The components used are:
 Arduino UNO R3
